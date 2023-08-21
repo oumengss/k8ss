@@ -8,7 +8,7 @@ README
 
 参考： [Kubernetes 文档](https://kubernetes.io/zh/docs/) / [入门](https://kubernetes.io/zh/docs/setup/) / [生产环境](https://kubernetes.io/zh/docs/setup/production-environment/) / [使用部署工具安装 Kubernetes](https://kubernetes.io/zh/docs/setup/production-environment/tools/) /  [使用 kubeadm 引导集群](https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/) / [安装 kubeadm](https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
 <hr>
-<img src="http://k8s.ruitong.cn:8080/K8s/Images/kubeadm.png">
+<img src='http://k8s.ruitong.cn:8080/K8s/Images/kubeadm.png'>
 
 
 ## B. [准备开始](https://kubernetes.io/zh-cn/docs/setup/production-environment/tools/kubeadm/install-kubeadm/#%E5%87%86%E5%A4%87%E5%BC%80%E5%A7%8B)
